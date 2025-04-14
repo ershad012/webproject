@@ -51,7 +51,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url("C:\\Users\\Ershad Ajihil\\Downloads\\img for website\\coffee background.png.jpg");
+    background-image: url(coffee background.png.jpg);
     background-size: cover;
     background-position: center;
     color: white;
