@@ -1,2 +1,2 @@
-coffee shop website project
-webproject coffee shop
+Coffee Shop website project
+Webproject Coffee Shop
